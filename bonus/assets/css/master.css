@@ -86,3 +86,8 @@ footer .fab {
   justify-content: center;
     display: flex;
 }
+
+.col.card-prezzo {
+  flex-direction: column;
+  align-items: center;
+}

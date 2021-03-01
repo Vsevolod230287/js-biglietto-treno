@@ -1,5 +1,6 @@
 var km = parseInt(prompt("Quanti chilometri vuoi percorrere?"));
 var eta = parseInt(prompt("Quanti anni hai?"));
+var brand  = prompt("Inserisci un brand", "adidas");
 
 // Calcoliamo il costo in base ai chilometri
 var distanzaEuro = km * 0.21;
