@@ -1,4 +1,4 @@
-var km = parseInt(prompt("Quanti chilometri vuoi percorere?"));
+var km = parseInt(prompt("Quanti chilometri vuoi percorrere?"));
 var eta = parseInt(prompt("Quanti anni hai?"));
 
 // Calcoliamo il costo in base ai chilometri

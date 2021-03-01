@@ -5,5 +5,84 @@
 }
 
 body {
-  background-color: red;
+  background-color: green;
+  padding-top: 56px;
+}
+
+nav {
+  font-size: 23px;
+}
+
+.navbar-brand {
+  font-size: 20px;
+}
+
+.my-nav {
+  display: inline-block;
+}
+
+.my-breadcrumb {
+  justify-content: center;
+  display: flex;
+}
+
+section {
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.btn-primary:hover {
+  color: #8f1818;
+  border-color: #fff;
+}
+
+.my-btn {
+  background-color: #121212;
+  box-shadow: 5px 10px blur #888888;
+  width: 286px;
+  display: inline-block;
+  font-weight: 400;
+  color: #212529;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid #fff;
+  padding: 10px 20px;
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+footer {
+  padding: 20px 0;
+  background-color: #343A40;
+}
+
+footer ul {
+  text-align: center;
+  list-style: none;
+}
+
+footer ul {
+  text-align: center;
+}
+
+footer ul.speciale li {
+  display: inline-block;
+}
+
+footer .fab {
+  padding: 0 15px;
+  font-size: 30px;
+}
+
+.row {
+  justify-content: space-evenly;
+}
+
+.card {
+  margin: 20px 0;
+}
+
+.col {
+  justify-content: center;
+    display: flex;
 }
